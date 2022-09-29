@@ -31,7 +31,7 @@ I am a Full Stack Developer in Canada originally from Japan.
 - 🌱 I’m currently learning React Advanced Topics! 
 - 🤔 I'm thinking of next web application to build...
 - 🐶 If I am not coding, I'm out for a walk with my mudi dog!
-- 💻 [My Portfolio Website](kazukobaynton.com)
+- 💻 [My Portfolio Website](kazukobaynton.com) 🤍
 
 
 <!--
