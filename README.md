@@ -34,8 +34,8 @@ I am a Full Stack Developer in Canada originally from Japan.
 - 💻 [My Portfolio Website](https://kazukobaynton.com/) 🤍
 
 <a href="https://github.com/Kaz1022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaz1022&theme=gruvbox_light&show_icons=true&count_private=true&&line_height=20"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kaz1022&theme=gruvbox_light&show_icons=true&count_private=true&card_width=350"/>
 </a>
 <a href="https://github.com/Kaz1022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaz1022&theme=kacho_ga&layout=compact&line_height=20" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaz1022&theme=kacho_ga&layout=compact" />
 </a>
