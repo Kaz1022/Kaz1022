@@ -20,6 +20,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   </div>
 </div>
 
