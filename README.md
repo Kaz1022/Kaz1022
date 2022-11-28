@@ -30,7 +30,7 @@
 ### About Me :
 
 I am a Full Stack Developer in Canada originally from Japan.🇯🇵🇨🇦
-- 🌱 I’m currently solidifying front-end tech stacks!
+- 🌱 I’m currently solidifying front-end tech skills!
 - 🐶 If I am not coding, I'm out for a walk with my mudi dog.
 - 💻 [My Portfolio Website](https://kazukobaynton.com/)
 
