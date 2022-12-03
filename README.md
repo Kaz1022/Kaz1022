@@ -31,7 +31,7 @@
 
 I am a Full Stack Developer in Canada originally from Japan.🇯🇵🇨🇦
 - 🌱 I’m currently solidifying front-end skills!
-- 🐶 If I am not coding, I'm out for a walk with my mudi dog.
+- 🐶 If I am not coding, I'm out for a walk with my mudi dog
 - 💻 [My Portfolio Website](https://kazukobaynton.com/)
 
 <a href="https://github.com/Kaz1022">
